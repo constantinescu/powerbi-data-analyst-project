@@ -60,13 +60,6 @@ The analysis answers the following key business questions:
 
 ---
 
-## 👤 Author
-
-Created as part of a Data Analyst training program.  
-Focused on financial data analysis and business intelligence using Power BI.
-
----
-
 ## 📬 Future Improvements
 
 - Add predictive analysis (loan default risk)  
