@@ -9,9 +9,6 @@ The goal of this analysis is to help understand lending behavior and support dat
 ---
 
 ## 🎯 Business Questions
-
-The analysis answers the following key business questions:
-
 Which branch (city) has the highest loan volume?
 What type of loan is most commonly granted? (Mortgage, Consumer, Auto, Business)
 Which customer segment (Retail, SME, Corporate) takes the largest loans?
