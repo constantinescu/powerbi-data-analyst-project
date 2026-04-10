@@ -8,9 +8,21 @@ The goal of this analysis is to help understand lending behavior and support dat
 
 ---
 
-## 🎯 Business Objectives
+## 🎯 Business Questions
 
 The analysis answers the following key business questions:
+
+Which branch (city) has the highest loan volume?
+What type of loan is most commonly granted? (Mortgage, Consumer, Auto, Business)
+Which customer segment (Retail, SME, Corporate) takes the largest loans?
+In which cities are large loans granted, and in which cities are small loans granted?
+Which loan types have the highest interest rates?
+Which customer segment is the most profitable for the bank?
+Are large loans issued for short or long periods?
+Is there an increase in loans over time?
+Is the bank’s portfolio concentrated in a single city or distributed across multiple cities?
+If you were a manager, in which city would you open a new branch?
+
 
 ### 🏦 Loan Distribution & Volume
 - Which branch (city) has the highest loan volume?
@@ -32,24 +44,12 @@ The analysis answers the following key business questions:
 ### 🌍 Strategic Insights
 - If opening a new branch, which city would be the best choice based on loan activity and distribution?
 
----
 
 ## 🧰 Tools & Technologies
 
 - Power BI Desktop  
 - Data Visualization (Charts, Maps, KPIs)
 
----
-
-## 📈 Dashboard Features
-
-- Interactive filters (city, segment, loan type)  
-- Trend analysis over time  
-- Comparative analysis of customer segments  
-- Geographic visualization of loan distribution  
-- Profitability insights per segment  
-
----
 
 ## 🚀 How to Use This Project
 
@@ -58,7 +58,6 @@ The analysis answers the following key business questions:
 3. Refresh data model  
 4. Explore dashboards using filters and visuals  
 
----
 
 ## 📬 Future Improvements
 
