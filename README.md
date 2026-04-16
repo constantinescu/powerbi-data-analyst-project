@@ -20,6 +20,8 @@ The goal of this analysis is to help understand lending behavior and support dat
 - Is the bank’s portfolio concentrated in a single city or distributed across multiple cities?
 - If you were a manager, in which city would you open a new branch?
 
+https://github.com/constantinescu/powerbi-data-analyst-project/blob/b09720b0810a7fd83e54fd2334ca16e62c887456/ReportPowerBI_15042026.pbix
+
 <img width="1789" height="1066" alt="image" src="https://github.com/user-attachments/assets/99cae719-f70b-4dae-aa1a-fc538001de9d" />
 
 
